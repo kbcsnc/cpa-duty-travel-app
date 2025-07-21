@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-07-21 03:25:01</sys_created_on>
+        <sys_id>bec8443a47326e90873506f1d16d4352</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.snc_internal</sys_name>
+        <sys_package display_value="Duty Travel" source="x_snc_duty_travel">76e946e3976e2250fc1cf4ef9153af01</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
+        <sys_security_acl display_value="3add406e47beaa90873506f1d16d43f7">c9c8ccf647326e90873506f1d16d43ec</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bec8443a47326e90873506f1d16d4352</sys_update_name>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-07-21 03:25:01</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
