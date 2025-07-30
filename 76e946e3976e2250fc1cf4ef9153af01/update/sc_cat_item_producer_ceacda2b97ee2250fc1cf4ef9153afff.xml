@@ -13,8 +13,28 @@
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description><![CDATA[<p>Submit travel requests easily with our platform, designed for efficient business travel approval. Provide trip details, and our team will review your request promptly.</p>
-]]></description>
+        <description><![CDATA[<div id="copilot-message-rb1">
+<div>
+<div>
+<div>
+<div>
+<div>
+<div id="chatMessageResponserav">
+<div>
+<div>
+<p>Submit your business travel request by entering trip details such as destination, dates, and purpose. Our team will review and process your request promptly.</p>
+<p>You can also attach supporting documents like visa invitation letters to ensure smooth and efficient approval.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div><strong>Note:</strong> Certain information is prefilled for your convenience.</div>
+<div><span style="font-size: 8pt;">&#x1f389; <em>Oh! and see if you can find the hidden easter egg!</em> &#x1f389;</span></div>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
@@ -90,14 +110,14 @@
         <sys_created_by>kb.cheung</sys_created_by>
         <sys_created_on>2025-07-11 11:50:08</sys_created_on>
         <sys_id>ceacda2b97ee2250fc1cf4ef9153afff</sys_id>
-        <sys_mod_count>81</sys_mod_count>
+        <sys_mod_count>122</sys_mod_count>
         <sys_name>Request Duty Travel</sys_name>
         <sys_package display_value="Duty Travel" source="x_snc_duty_travel">76e946e3976e2250fc1cf4ef9153af01</sys_package>
         <sys_policy/>
         <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
         <sys_update_name>sc_cat_item_producer_ceacda2b97ee2250fc1cf4ef9153afff</sys_update_name>
         <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-07-13 09:33:56</sys_updated_on>
+        <sys_updated_on>2025-07-30 10:30:18</sys_updated_on>
         <table_name>x_snc_duty_travel_duty_travel_req</table_name>
         <taxonomy_topic/>
         <template/>
@@ -106,7 +126,7 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>81</version>
+        <version>122</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>

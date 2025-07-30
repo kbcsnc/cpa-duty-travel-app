@@ -31,7 +31,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>832d3f33972ee250fc1cf4ef9153af03</sys_id>
-        <sys_mod_count>24</sys_mod_count>
+        <sys_mod_count>45</sys_mod_count>
         <sys_name>Get Travel Alerts</sys_name>
         <sys_overrides/>
         <sys_package display_value="Duty Travel" source="x_snc_duty_travel">76e946e3976e2250fc1cf4ef9153af01</sys_package>
@@ -39,7 +39,7 @@
         <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_832d3f33972ee250fc1cf4ef9153af03</sys_update_name>
         <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-07-13 10:30:55</sys_updated_on>
+        <sys_updated_on>2025-07-29 11:51:10</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -53,10 +53,10 @@
         <sys_created_by>kb.cheung</sys_created_by>
         <sys_created_on>2025-07-12 13:39:42</sys_created_on>
         <sys_id>785f33f7972ee250fc1cf4ef9153af88</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-07-12 13:39:42</sys_updated_on>
-        <value>{"version":"1.0","serializationFormat":"JSON","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"794bc342-9c9d-444b-a3f2-dd4b6a5a0173\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}}</value>
+        <sys_updated_on>2025-07-29 11:48:18</sys_updated_on>
+        <value>{"version":"1.0","complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"794bc342-9c9d-444b-a3f2-dd4b6a5a0173\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"serializationFormat":"JSON"}</value>
         <variable display_value="Action Status">3c5f33f7972ee250fc1cf4ef9153af65</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -140,10 +140,10 @@
         <sys_created_by>kb.cheung</sys_created_by>
         <sys_created_on>2025-07-12 13:39:41</sys_created_on>
         <sys_id>ac5f33f7972ee250fc1cf4ef9153af3c</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
         <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-07-13 10:30:53</sys_updated_on>
+        <sys_updated_on>2025-07-23 01:08:59</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=ac5f33f7972ee250fc1cf4ef9153af3c"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -168,9 +168,9 @@
         <sys_created_by>kb.cheung</sys_created_by>
         <sys_created_on>2025-07-12 13:39:42</sys_created_on>
         <sys_id>b45f33f7972ee250fc1cf4ef9153af61</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-07-13 10:30:53</sys_updated_on>
+        <sys_updated_on>2025-07-23 01:08:59</sys_updated_on>
         <value>(function execute(inputs, outputs) {&#13;
     var ota = new GlideRecord('x_snc_duty_travel_ota');&#13;
     var ota_collection = [];&#13;
@@ -181,7 +181,8 @@
             alert_sysid: ota.getUniqueValue(),&#13;
             alert_num: ota.getValue('number'),&#13;
             alert_type: ota.getDisplayValue('alert'),&#13;
-            alert_description: ota.getValue('alert_description')&#13;
+            alert_description: ota.getValue('alert_description'),&#13;
+            alert_travel_recommendations: ota.getValue('travel_recommendations')&#13;
         });&#13;
     }&#13;
     outputs.alerts_json = JSON.stringify(ota_collection);&#13;
@@ -246,7 +247,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=reference,uiTypeLabel=Record</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=reference,uiTypeLabel=Reference</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -305,14 +306,14 @@
         <sys_created_by>kb.cheung</sys_created_by>
         <sys_created_on>2025-07-13 10:30:53</sys_created_on>
         <sys_id>30bd9cd097be6650fc1cf4ef9153afaa</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
         <sys_update_name/>
         <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-07-13 10:30:53</sys_updated_on>
+        <sys_updated_on>2025-07-23 01:08:59</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -671,14 +672,14 @@
         <sys_created_by>kb.cheung</sys_created_by>
         <sys_created_on>2025-07-12 13:39:42</sys_created_on>
         <sys_id>705f33f7972ee250fc1cf4ef9153af70</sys_id>
-        <sys_mod_count>17</sys_mod_count>
+        <sys_mod_count>33</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
         <sys_update_name/>
         <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-07-13 10:30:54</sys_updated_on>
+        <sys_updated_on>2025-07-29 11:51:09</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -890,17 +891,17 @@
     <sys_hub_action_plan action="INSERT_OR_UPDATE">
         <action_id display_value="Get Travel Alerts">832d3f33972ee250fc1cf4ef9153af03</action_id>
         <plan>{"type":"PlanProxy","persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"e0208c08973ee250fc1cf4ef9153aff2","name":"plan","plan_signature":null}}</plan>
-        <snapshot>99bddcd097be6650fc1cf4ef9153af65</snapshot>
+        <snapshot>b089c3d997cb2610fc1cf4ef9153af91</snapshot>
         <sys_created_by>kb.cheung</sys_created_by>
         <sys_created_on>2025-07-12 13:43:14</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e0208c08973ee250fc1cf4ef9153aff2</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-07-13 10:30:56</sys_updated_on>
+        <sys_updated_on>2025-07-29 11:51:10</sys_updated_on>
     </sys_hub_action_plan>
     <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
@@ -930,7 +931,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>98208c08973ee250fc1cf4ef9153af3a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -938,7 +939,7 @@
         <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
         <sys_update_name/>
         <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-07-13 10:30:54</sys_updated_on>
+        <sys_updated_on>2025-07-29 11:51:09</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_snapshot>
@@ -952,10 +953,10 @@
         <sys_created_by>kb.cheung</sys_created_by>
         <sys_created_on>2025-07-12 13:43:14</sys_created_on>
         <sys_id>68208c08973ee250fc1cf4ef9153afa5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-07-12 13:43:14</sys_updated_on>
-        <value>{"version":"1.0","serializationFormat":"JSON","complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"794bc342-9c9d-444b-a3f2-dd4b6a5a0173\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}}</value>
+        <sys_updated_on>2025-07-29 11:48:23</sys_updated_on>
+        <value>{"version":"1.0","complexObjectSchema":{"FlowDesigner:FDACTIONSTATUS":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDACTIONSTATUS.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"794bc342-9c9d-444b-a3f2-dd4b6a5a0173\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDACTIONSTATUS\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}},"complexObject":{"code":{"$cv":{"$c":"java.lang.String","$v":""}},"message":{"$cv":{"$c":"java.lang.String","$v":""}}},"serializationFormat":"JSON"}</value>
         <variable display_value="Action Status">d0208c08973ee250fc1cf4ef9153af84</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -1039,10 +1040,10 @@
         <sys_created_by>kb.cheung</sys_created_by>
         <sys_created_on>2025-07-12 13:43:13</sys_created_on>
         <sys_id>14208c08973ee250fc1cf4ef9153af60</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
         <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-07-13 10:30:55</sys_updated_on>
+        <sys_updated_on>2025-07-23 01:09:00</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=14208c08973ee250fc1cf4ef9153af60"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -1053,9 +1054,9 @@
         <sys_created_by>kb.cheung</sys_created_by>
         <sys_created_on>2025-07-12 13:43:13</sys_created_on>
         <sys_id>14208c08973ee250fc1cf4ef9153af80</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-07-13 10:30:55</sys_updated_on>
+        <sys_updated_on>2025-07-23 01:09:00</sys_updated_on>
         <value>(function execute(inputs, outputs) {&#13;
     var ota = new GlideRecord('x_snc_duty_travel_ota');&#13;
     var ota_collection = [];&#13;
@@ -1066,7 +1067,8 @@
             alert_sysid: ota.getUniqueValue(),&#13;
             alert_num: ota.getValue('number'),&#13;
             alert_type: ota.getDisplayValue('alert'),&#13;
-            alert_description: ota.getValue('alert_description')&#13;
+            alert_description: ota.getValue('alert_description'),&#13;
+            alert_travel_recommendations: ota.getValue('travel_recommendations')&#13;
         });&#13;
     }&#13;
     outputs.alerts_json = JSON.stringify(ota_collection);&#13;
@@ -1145,7 +1147,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=reference,uiTypeLabel=Record</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=reference,uiTypeLabel=Reference</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -1204,14 +1206,14 @@
         <sys_created_by>kb.cheung</sys_created_by>
         <sys_created_on>2025-07-13 10:30:55</sys_created_on>
         <sys_id>41bddcd097be6650fc1cf4ef9153af3f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
         <sys_update_name/>
         <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-07-13 10:30:55</sys_updated_on>
+        <sys_updated_on>2025-07-23 01:09:00</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1483,14 +1485,14 @@
         <sys_created_by>kb.cheung</sys_created_by>
         <sys_created_on>2025-07-12 13:43:13</sys_created_on>
         <sys_id>6c208c08973ee250fc1cf4ef9153af8d</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
         <sys_update_name/>
         <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-07-13 10:30:55</sys_updated_on>
+        <sys_updated_on>2025-07-29 11:51:10</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

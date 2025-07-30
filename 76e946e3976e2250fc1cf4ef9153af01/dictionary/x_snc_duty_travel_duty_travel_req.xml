@@ -21,5 +21,6 @@
             </choice>
         </element>
         <element label="Business justification" max_length="4000" name="business_justification" type="string"/>
+        <element label="Document intelligence" max_length="4000" name="docintel" read_only="true" type="string"/>
     </element>
 </database>
