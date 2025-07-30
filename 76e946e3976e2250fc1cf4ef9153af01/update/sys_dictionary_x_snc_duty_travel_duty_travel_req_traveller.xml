@@ -33,7 +33,7 @@
         <name>x_snc_duty_travel_duty_travel_req</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>false</read_only>
+        <read_only>true</read_only>
         <read_roles/>
         <reference display_value="" name="sys_user">sys_user</reference>
         <reference_cascade_rule/>
@@ -52,8 +52,8 @@
         <sys_policy/>
         <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_duty_travel_duty_travel_req_traveller</sys_update_name>
-        <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-07-11 14:09:42</sys_updated_on>
+        <sys_updated_by>carmen.man</sys_updated_by>
+        <sys_updated_on>2025-07-18 08:27:31</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
