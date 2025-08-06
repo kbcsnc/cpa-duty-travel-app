@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_asset">
+    <sys_ux_theme_asset action="DELETE">
+        <category>image</category>
+        <name>cathay_logo_208x50v2</name>
+        <sys_class_name>sys_ux_theme_asset</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-07-31 12:01:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>68fe51c69747aa10fc1cf4ef9153af12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cathay_logo_208x50v2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Duty Travel" source="x_snc_duty_travel">76e946e3976e2250fc1cf4ef9153af01</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
+        <sys_update_name>sys_ux_theme_asset_68fe51c69747aa10fc1cf4ef9153af12</sys_update_name>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-07-31 12:01:02</sys_updated_on>
+    </sys_ux_theme_asset>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</application>
+        <file_path/>
+        <instance_id>62cb0508db73f41052cec59705961900</instance_id>
+        <instance_name>demon</instance_name>
+        <name>sys_ux_theme_asset_68fe51c69747aa10fc1cf4ef9153af12</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_asset"><sys_ux_theme_asset action="INSERT_OR_UPDATE"><category>image</category><name>cathay_logo_208x50v2</name><sys_class_name>sys_ux_theme_asset</sys_class_name><sys_created_by>kb.cheung</sys_created_by><sys_created_on>2025-07-31 12:01:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>68fe51c69747aa10fc1cf4ef9153af12</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cathay_logo_208x50v2</sys_name><sys_overrides/><sys_package display_value="Duty Travel" source="x_snc_duty_travel">76e946e3976e2250fc1cf4ef9153af01</sys_package><sys_policy/><sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope><sys_update_name>sys_ux_theme_asset_68fe51c69747aa10fc1cf4ef9153af12</sys_update_name><sys_updated_by>kb.cheung</sys_updated_by><sys_updated_on>2025-07-31 12:01:02</sys_updated_on></sys_ux_theme_asset></record_update>]]></payload>
+        <payload_hash>1372381909</payload_hash>
+        <record_name>cathay_logo_208x50v2</record_name>
+        <reverted_from/>
+        <source>118cadc7477222d0873506f1d16d436a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-07-31 12:01:42</sys_created_on>
+        <sys_id>a21f19ca9747aa10fc1cf4ef9153afac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198605c0dcb0000001</sys_recorded_at>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-07-31 12:01:42</sys_updated_on>
+        <type>UX Theme Asset</type>
+        <update_guid>e61f19caaf47aa101085a89fb39cb0ab</update_guid>
+        <update_guid_history>e61f19caaf47aa101085a89fb39cb0ab:1372381909,f0fe15caf247aa106a96459688c15227:1159591888,28fe51c64447aa1014f58add33643a15:1372381909</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-07-31 12:01:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_theme_asset">sys_ux_theme_asset</sys_db_object>
+        <sys_id>96ab179c33724171a92724a58a2040a1</sys_id>
+        <sys_metadata>68fe51c69747aa10fc1cf4ef9153af12</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cathay_logo_208x50v2</sys_name>
+        <sys_package display_value="Duty Travel" source="x_snc_duty_travel">76e946e3976e2250fc1cf4ef9153af01</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
+        <sys_scope_delete display_value="">0cdcac447e544b2e81d61650b5dfb741</sys_scope_delete>
+        <sys_update_name>sys_ux_theme_asset_68fe51c69747aa10fc1cf4ef9153af12</sys_update_name>
+        <sys_update_version display_value="sys_ux_theme_asset_68fe51c69747aa10fc1cf4ef9153af12">a21f19ca9747aa10fc1cf4ef9153afac</sys_update_version>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-07-31 12:01:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

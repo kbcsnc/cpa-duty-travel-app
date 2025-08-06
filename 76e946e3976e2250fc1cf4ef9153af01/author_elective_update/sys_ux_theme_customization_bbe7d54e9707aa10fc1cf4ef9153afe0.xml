@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_customization">
+    <sys_ux_theme_customization action="DELETE">
+        <customization>{
+  "colors": [
+    {
+      "id": "isSecondaryColorUpdated",
+      "value": true,
+      "type": "secondary_color_updated"
+    }
+  ],
+  "feedback": [],
+  "groupName": "",
+  "imagery": [],
+  "initialValues": {}
+}</customization>
+        <name>Cathay Pacific</name>
+        <sys_class_name>sys_ux_theme_customization</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-07-31 11:30:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bbe7d54e9707aa10fc1cf4ef9153afe0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Cathay Pacific</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Duty Travel" source="x_snc_duty_travel">76e946e3976e2250fc1cf4ef9153af01</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
+        <sys_update_name>sys_ux_theme_customization_bbe7d54e9707aa10fc1cf4ef9153afe0</sys_update_name>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-07-31 11:45:33</sys_updated_on>
+        <theme display_value="Cathay Pacific">27e71d8a9707aa10fc1cf4ef9153afa9</theme>
+    </sys_ux_theme_customization>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</application>
+        <file_path/>
+        <instance_id>62cb0508db73f41052cec59705961900</instance_id>
+        <instance_name>demon</instance_name>
+        <name>sys_ux_theme_customization_bbe7d54e9707aa10fc1cf4ef9153afe0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_customization"><sys_ux_theme_customization action="INSERT_OR_UPDATE"><customization>{
+  "colors": [
+    {
+      "id": "isSecondaryColorUpdated",
+      "value": true,
+      "type": "secondary_color_updated"
+    }
+  ],
+  "feedback": [],
+  "groupName": "",
+  "imagery": [],
+  "initialValues": {}
+}</customization><name>Cathay Pacific</name><sys_class_name>sys_ux_theme_customization</sys_class_name><sys_created_by>kb.cheung</sys_created_by><sys_created_on>2025-07-31 11:30:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bbe7d54e9707aa10fc1cf4ef9153afe0</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Cathay Pacific</sys_name><sys_overrides/><sys_package display_value="Duty Travel" source="x_snc_duty_travel">76e946e3976e2250fc1cf4ef9153af01</sys_package><sys_policy/><sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope><sys_update_name>sys_ux_theme_customization_bbe7d54e9707aa10fc1cf4ef9153afe0</sys_update_name><sys_updated_by>kb.cheung</sys_updated_by><sys_updated_on>2025-07-31 11:45:33</sys_updated_on><theme display_value="Cathay Pacific">27e71d8a9707aa10fc1cf4ef9153afa9</theme></sys_ux_theme_customization></record_update>]]></payload>
+        <payload_hash>1615270598</payload_hash>
+        <record_name>Cathay Pacific</record_name>
+        <reverted_from/>
+        <source>118cadc7477222d0873506f1d16d436a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-07-31 11:45:33</sys_created_on>
+        <sys_id>466bd9829747aa10fc1cf4ef9153afd5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198604d456d0000001</sys_recorded_at>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-07-31 11:45:33</sys_updated_on>
+        <type>Ux Theme Customization</type>
+        <update_guid>ca6bd982fc47aa10cc949387166fb4d4</update_guid>
+        <update_guid_history>ca6bd982fc47aa10cc949387166fb4d4:1615270598,753bd9821d47aa10c2660ca4337a1e4e:923361264,b3e7d54e8407aa100a56661ec1e0c3e2:-865804256</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-07-31 12:16:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_theme_customization">sys_ux_theme_customization</sys_db_object>
+        <sys_id>37e2fe9768bc4b9f8aafe4cc91e6d461</sys_id>
+        <sys_metadata>bbe7d54e9707aa10fc1cf4ef9153afe0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cathay Pacific</sys_name>
+        <sys_package display_value="Duty Travel" source="x_snc_duty_travel">76e946e3976e2250fc1cf4ef9153af01</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
+        <sys_scope_delete display_value="">0cdcac447e544b2e81d61650b5dfb741</sys_scope_delete>
+        <sys_update_name>sys_ux_theme_customization_bbe7d54e9707aa10fc1cf4ef9153afe0</sys_update_name>
+        <sys_update_version display_value="sys_ux_theme_customization_bbe7d54e9707aa10fc1cf4ef9153afe0">466bd9829747aa10fc1cf4ef9153afd5</sys_update_version>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-07-31 12:16:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

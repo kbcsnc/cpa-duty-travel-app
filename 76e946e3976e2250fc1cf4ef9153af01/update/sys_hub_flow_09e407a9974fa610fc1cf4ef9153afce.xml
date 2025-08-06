@@ -4,7 +4,7 @@
         <acls/>
         <active>true</active>
         <annotation/>
-        <attributes>intermediateFlowVersion=0.4,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=12900000</attributes>
+        <attributes>intermediateFlowVersion=0.4,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=543225000</attributes>
         <authored_on_release_version>27000</authored_on_release_version>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
@@ -36,7 +36,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>09e407a9974fa610fc1cf4ef9153afce</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Duty Travel Request - Use case: Duty Travel Fulfillment - 0de407a9974fa610fc1cf4ef9153afcd</sys_name>
         <sys_overrides/>
         <sys_package display_value="Duty Travel" source="x_snc_duty_travel">76e946e3976e2250fc1cf4ef9153af01</sys_package>
@@ -44,7 +44,7 @@
         <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
         <sys_update_name>sys_hub_flow_09e407a9974fa610fc1cf4ef9153afce</sys_update_name>
         <sys_updated_by>carmen.man</sys_updated_by>
-        <sys_updated_on>2025-07-30 09:44:30</sys_updated_on>
+        <sys_updated_on>2025-08-05 13:03:15</sys_updated_on>
         <type>flow</type>
         <updation_source/>
         <version>1</version>
@@ -85,14 +85,14 @@
         <identifier>09e407a9974fa610fc1cf4ef9153afce</identifier>
         <runner>FDTriggerRunner</runner>
         <sys_created_by>carmen.man</sys_created_by>
-        <sys_created_on>2025-07-30 09:44:29</sys_created_on>
-        <sys_id>7a16f3e547072610873506f1d16d4326</sys_id>
+        <sys_created_on>2025-08-05 13:03:15</sys_created_on>
+        <sys_id>782d572f474baa10873506f1d16d4362</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>carmen.man</sys_updated_by>
-        <sys_updated_on>2025-07-30 09:44:29</sys_updated_on>
+        <sys_updated_on>2025-08-05 13:03:15</sys_updated_on>
         <trigger display_value="">ede487a9974fa610fc1cf4ef9153af2e</trigger>
     </sys_trigger_runner_mapping>
-    <sys_trigger_runner_mapping action="delete_multiple" query="identifier=09e407a9974fa610fc1cf4ef9153afce^sys_idNOT IN7a16f3e547072610873506f1d16d4326"/>
+    <sys_trigger_runner_mapping action="delete_multiple" query="identifier=09e407a9974fa610fc1cf4ef9153afce^sys_idNOT IN782d572f474baa10873506f1d16d4362"/>
     <sys_hub_flow_stage action="delete_multiple" query="flow=09e407a9974fa610fc1cf4ef9153afce"/>
     <sys_flow_cat_variable_model action="delete_multiple" query="id=09e407a9974fa610fc1cf4ef9153afce^sys_idNOT IN49e407a9974fa610fc1cf4ef9153afcf"/>
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
@@ -289,10 +289,10 @@
         <sys_created_by>carmen.man</sys_created_by>
         <sys_created_on>2025-07-30 06:09:28</sys_created_on>
         <sys_id>4de447a9974fa610fc1cf4ef9153af37</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>carmen.man</sys_updated_by>
-        <sys_updated_on>2025-07-30 09:44:29</sys_updated_on>
+        <sys_updated_on>2025-08-05 13:03:13</sys_updated_on>
         <trigger_definition display_value="Created">798916a0c31322002841b63b12d3ae7c</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -345,10 +345,10 @@
         <sys_created_by>carmen.man</sys_created_by>
         <sys_created_on>2025-07-30 06:09:29</sys_created_on>
         <sys_id>11e447a9974fa610fc1cf4ef9153af9f</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
         <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-07-30 10:18:58</sys_updated_on>
+        <sys_updated_on>2025-08-03 10:09:33</sys_updated_on>
         <ui_id>89e447a9-7b4f-a610-6605-693672af2035</ui_id>
         <updation_source/>
     </sys_hub_action_instance>
@@ -477,7 +477,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>51e447a9974fa610fc1cf4ef9153affe</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -485,7 +485,7 @@
         <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
         <sys_update_name/>
         <sys_updated_by>carmen.man</sys_updated_by>
-        <sys_updated_on>2025-07-30 09:44:29</sys_updated_on>
+        <sys_updated_on>2025-08-05 13:03:14</sys_updated_on>
         <type>flow</type>
         <version>1</version>
     </sys_hub_flow_snapshot>
@@ -687,10 +687,10 @@
         <sys_created_by>carmen.man</sys_created_by>
         <sys_created_on>2025-07-30 09:40:48</sys_created_on>
         <sys_id>f0453b6547072610873506f1d16d43cc</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>carmen.man</sys_updated_by>
-        <sys_updated_on>2025-07-30 09:44:29</sys_updated_on>
+        <sys_updated_on>2025-08-05 13:03:15</sys_updated_on>
         <trigger_definition display_value="Created">798916a0c31322002841b63b12d3ae7c</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -743,10 +743,10 @@
         <sys_created_by>carmen.man</sys_created_by>
         <sys_created_on>2025-07-30 09:40:49</sys_created_on>
         <sys_id>b4453b6547072610873506f1d16d43dd</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
         <sys_updated_by>carmen.man</sys_updated_by>
-        <sys_updated_on>2025-07-30 09:44:29</sys_updated_on>
+        <sys_updated_on>2025-08-05 13:03:14</sys_updated_on>
         <ui_id>89e447a9-7b4f-a610-6605-693672af2035</ui_id>
         <updation_source/>
     </sys_hub_action_instance>
@@ -847,24 +847,24 @@
     <sys_hub_flow action="UPDATE">
         <sys_id>09e407a9974fa610fc1cf4ef9153afce</sys_id>
         <latest_snapshot>51e447a9974fa610fc1cf4ef9153affe</latest_snapshot>
-        <compiler_build>glide-yokohama-12-18-2024__patch5-06-11-2025_06-25-2025_1836.zip</compiler_build>
+        <compiler_build>glide-yokohama-12-18-2024__patch6-07-17-2025_07-27-2025_1301.zip</compiler_build>
     </sys_hub_flow>
     <sys_flow_trigger_plan action="delete_multiple" query="plan_id=09e407a9974fa610fc1cf4ef9153afce^sys_idNOT INede487a9974fa610fc1cf4ef9153af30"/>
     <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
         <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
         <plan>{"type":"PlanProxy","persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"ede487a9974fa610fc1cf4ef9153af30","name":"plan","plan_signature":null}}</plan>
         <plan_id>09e407a9974fa610fc1cf4ef9153afce</plan_id>
-        <snapshot>bbfdb7e59787e610fc1cf4ef9153afe5</snapshot>
+        <snapshot>51e447a9974fa610fc1cf4ef9153affe</snapshot>
         <sys_created_by>carmen.man</sys_created_by>
         <sys_created_on>2025-07-30 06:09:30</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ede487a9974fa610fc1cf4ef9153af30</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>carmen.man</sys_updated_by>
-        <sys_updated_on>2025-07-30 09:40:49</sys_updated_on>
+        <sys_updated_on>2025-08-05 13:03:15</sys_updated_on>
         <trigger display_value="">ede487a9974fa610fc1cf4ef9153af2e</trigger>
     </sys_flow_trigger_plan>
     <sys_flow_subflow_plan action="delete_multiple" query="plan_id=09e407a9974fa610fc1cf4ef9153afce"/>
