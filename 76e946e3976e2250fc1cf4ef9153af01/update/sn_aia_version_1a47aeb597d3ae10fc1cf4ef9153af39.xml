@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_aia_version">
+    <sn_aia_version action="INSERT_OR_UPDATE">
+        <condition/>
+        <instructions>1. Retrieve the most recent duty travel request details, including its current status, travel alerts, approval state, and the name and contact information of the current approver, to prepare for responding to the user's query.
+2. Use the information gathered in Step 1 to present response to the user's query in clear, concise, and layman-friendly language in no more than 25 word sentence and do not use 'Math' tool to support the answer. If any required data is missing or unavailable, simply state that the information is not available.
+3. Continue engaging the user by asking if there are any more questions. Use the information gathered in Step 1 to respond. 
+4. Repeat Step 3, until they have no more queries and only when the user explicitly says they have no more questions, then terminate the agent gracefully with a comment thanking the user for using this service.</instructions>
+        <state>published</state>
+        <sys_class_name>sn_aia_version</sys_class_name>
+        <sys_created_by>kb.cheung</sys_created_by>
+        <sys_created_on>2025-08-12 08:54:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>1a47aeb597d3ae10fc1cf4ef9153af39</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name>V1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Duty Travel" source="x_snc_duty_travel">76e946e3976e2250fc1cf4ef9153af01</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
+        <sys_update_name>sn_aia_version_1a47aeb597d3ae10fc1cf4ef9153af39</sys_update_name>
+        <sys_updated_by>kb.cheung</sys_updated_by>
+        <sys_updated_on>2025-08-14 06:12:11</sys_updated_on>
+        <target_id>45b426b197d3ae10fc1cf4ef9153af19</target_id>
+        <target_table>sn_aia_agent</target_table>
+        <version_name>V1</version_name>
+        <version_number>1</version_number>
+    </sn_aia_version>
+</record_update>

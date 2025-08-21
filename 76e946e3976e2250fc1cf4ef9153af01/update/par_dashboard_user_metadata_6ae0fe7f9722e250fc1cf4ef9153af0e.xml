@@ -19,7 +19,7 @@
         <include_thresholds>true</include_thresholds>
         <include_trends>true</include_trends>
         <include_widget_notification>true</include_widget_notification>
-        <last_updated_on>2025-07-30 10:44:49</last_updated_on>
+        <last_updated_on>2025-08-12 05:19:37</last_updated_on>
         <po_project_id_list>[]</po_project_id_list>
         <refresh_information>false</refresh_information>
         <refresh_interval>-1</refresh_interval>
@@ -32,7 +32,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6ae0fe7f9722e250fc1cf4ef9153af0e</sys_id>
-        <sys_mod_count>170</sys_mod_count>
+        <sys_mod_count>182</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Duty Travel" source="x_snc_duty_travel">76e946e3976e2250fc1cf4ef9153af01</sys_package>
@@ -40,7 +40,7 @@
         <sys_scope display_value="Duty Travel">76e946e3976e2250fc1cf4ef9153af01</sys_scope>
         <sys_update_name>par_dashboard_user_metadata_6ae0fe7f9722e250fc1cf4ef9153af0e</sys_update_name>
         <sys_updated_by>kb.cheung</sys_updated_by>
-        <sys_updated_on>2025-07-30 10:45:01</sys_updated_on>
+        <sys_updated_on>2025-08-12 05:23:37</sys_updated_on>
         <updated_by_user display_value="KB Cheung">e022f55897a2d210fc1cf4ef9153af97</updated_by_user>
         <use_custom_tab_colors>false</use_custom_tab_colors>
     </par_dashboard_user_metadata>
